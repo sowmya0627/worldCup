@@ -1,4 +1,4 @@
-# 2018 World Cup Visualizations
+# World Cup Visualizations
 
 ### Summary
 I chose to do this project on the World Cup as we were in the midst of the defining matches of the 2018 World Cup. The constant viewing of matches at work, at home, on Bart had me curious about the players and general quality of the teams. I mainly used Plotly and Seaborn in Python to generate visualizations related to the players and countries that participated.
