@@ -11,7 +11,12 @@ I chose to do this project on the World Cup as we were in the midst of the defin
 ![loyaltyheatmap](https://user-images.githubusercontent.com/40477918/43031301-ec2f9872-8c53-11e8-8169-6dbb34a12aae.png)
 #### Generally, players tend to gravitate to the major clubs in Europe (England, France, Germany, Italy, Spain). The listed European leagues have the most competative teams and money availible for premier players or they play in their home country. The top 3 loyal countries are England (100% loyalty rate), Russia and Saudi Arabia.
 
-### Datasets:
+
+### Next Steps
+I'd like to compare the number of fans and the demographics of the fans to the performance of teams. Especially looking at how diverse the fan base is and whether most of the fans are from the team's country or from other countries. 
+
+
+### Datasets
 
 https://www.kaggle.com/djamshed/fifa-world-cup-2018-players
 
