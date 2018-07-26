@@ -24,5 +24,5 @@ https://www.kaggle.com/abecklas/fifa-world-cup#WorldCups.csv
 
 https://en.wikipedia.org/wiki/List_of_FIFA_country_codes
 
-##### Link to Render on nbviewer:
-https://nbviewer.jupyter.org/github/sowmya0627/worldCup/blob/master/Jupyter%20Notebook/World%20Cup%20Viz_v5.0.ipynb
+##### Link to IPython Notebook Viewer:
+https://nbviewer.jupyter.org/github/sowmya0627/worldCup/blob/master/Jupyter%20Notebook/World%20Cup%20Viz_v6.0.ipynb
