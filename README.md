@@ -8,8 +8,8 @@ I chose to do this project on the World Cup as we were in the midst of the defin
 ![heightposition](https://user-images.githubusercontent.com/40477918/43031286-948fc128-8c53-11e8-8cfe-56eaa8b3dcec.png)
 #### As I mentioned, there is some diversity in the physical attributes of the players, for example in their height. Goalies and Defenders being the tallest make senese as this physical trait can help them be effective at their role - stopping the ball from going in the goal and winning the ball in the air.Forwards and Midfielders can be shorter as agility and accuracy are more important to their role than being tall.In general, heights are very diverse, can explain what makes soccer so accessible to the world, compared to the average height in the NBA (6ft 7in).
 
-![loyaltyheatmap](https://user-images.githubusercontent.com/40477918/43031301-ec2f9872-8c53-11e8-8169-6dbb34a12aae.png)
-#### Generally, players tend to gravitate to the major clubs in Europe (England, France, Germany, Italy, Spain). The listed European leagues have the most competative teams and money availible for premier players or they play in their home country. The top 3 loyal countries are England (100% loyalty rate), Russia and Saudi Arabia.
+![download](https://user-images.githubusercontent.com/40477918/43359760-1e31d06a-925d-11e8-8e31-48d3dcca6bec.png)
+#### Generally, players tend to gravitate to the major clubs in Europe highlighted by the boxes(England, France, Germany, Italy, Spain). The listed European leagues have the most competative teams and money availible for premier players or they play in their home country. The top 3 loyal countries are England (100% loyalty rate), Russia and Saudi Arabia.
 
 
 ### Next Steps
